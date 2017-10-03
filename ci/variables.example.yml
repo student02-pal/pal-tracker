@@ -1,0 +1,8 @@
+cf-api-url: CF_API_URL
+cf-username: CF_USERNAME
+cf-password: CF_PASSWORD
+cf-org: CF_ORG
+github-repository: git@github.com:student02-pal/pal-tracker.git
+github-private-key: |
+  -----BEGIN RSA PRIVATE KEY-----
+  -----END RSA PRIVATE KEY-----
